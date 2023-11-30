@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frankstallone
-- 👀 I’m interested in digital design, web standards, photography and running
+- 👀 I’m interested in product, digital design, web standards, photography and running
 - 💞️ I’m looking to collaborate on a tech podcast
-- 📫 @frankstallone on Twitter
+- 📫 @frankstallone on X
 
 <!---
 frankstallone/frankstallone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
