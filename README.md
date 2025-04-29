@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankstallone
-- 👀 I’m interested in product design, web development, photography and rowing
+- 👀 I’m interested in design, development, photography and fitness
 - 💞️ I’m looking to collaborate on a tech podcast
 - 📫 @frankstallone on X
 
